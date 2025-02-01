@@ -18,7 +18,7 @@ function SolarSystem() {
       venus: loader.load('2k_venus_surface.jpg'),
       earth: loader.load('2k_earth_daymap.jpg'),
       mars: loader.load('2k_mars.jpg'),
-      stars: loader.load('2k_stars_milky_way.jpg')
+      stars: loader.load('8k_stars_milky_way.jpg')
     };
 
     // Set background
